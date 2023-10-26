@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello World 👋 #
+[![Github followers](https://img.shields.io/github/followers/tamar-ayache?style=social&label=Follow)](https://github.com/tamar-ayache?tab=followers)
 
-<!--
-**tamar-ayache/tamar-ayache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I? ##
+Hello, my name is Tamar Ayache and I'm a Computer Science student at Hadassah Academic College.
 
-Here are some ideas to get you started:
+### A Little Bit More ###
+```python3
+#!/usr/bin/python3
+from datetime import datetime
+tamar = {
+       'full name': 'Tamar Ayache',
+       'programming languages': {'Python', 'c++', 'c'},
+       'workplace': None,
+       'studies': {
+                   'major': 'Computer Science',
+                   'type': 'B.Sc',
+                   'collage': 'Hadassah Academic College',
+                   'graduate date': datetime(year=2024, month=8, day=1)                  
+       }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  How to Reach Me? ## 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamar-ayache/)
+
+
+
+
